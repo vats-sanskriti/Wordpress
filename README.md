@@ -21,7 +21,7 @@ A custom registration system for the ListingHive WordPress theme where users can
 
 1. **Download the Plugin:**
 
-   Download the plugin from the [GitHub repository](https://github.com/yourusername/wp-Family-enroll).
+   Download the plugin from the [GitHub repository](https://github.com/vats-sanskriti/Wordpress/blob/main/wp-Family-enroll.zip).
 
 2. **Upload the Plugin:**
 
